@@ -39,4 +39,4 @@ looping constructs.
    directory of this lab. You'll be stuck in an infinite levitation loop! Hit
    `Control`+`C` to exit the infinite loop.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-loop' title='The loop Construct'>The loop Construct</a> on Learn.co and start learning to code for free.</p>
+
